@@ -80,9 +80,11 @@ classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/8743d175-c43d-4232-ba6d-c6ba6474f621)
+![image](https://github.com/user-attachments/assets/a6a0a915-91dd-44d6-89b1-f83a9531ff6e)
+
 
 ## DATA DUPLICATE
 0
