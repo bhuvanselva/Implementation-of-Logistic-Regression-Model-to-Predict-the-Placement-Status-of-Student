@@ -83,7 +83,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/a6a0a915-91dd-44d6-89b1-f83a9531ff6e)
+![image](https://github.com/user-attachments/assets/bfe9341a-1a66-4cfa-b949-8457e963781e)
+![image](https://github.com/user-attachments/assets/9effdc30-4f61-4ac0-84b2-ce8a6947529c)
+![image](https://github.com/user-attachments/assets/dac0dbdd-a488-4b5d-bd94-d2ee0d943d9e)
+![image](https://github.com/user-attachments/assets/427ad35e-a860-4942-a54a-2ea322f0f6cc)
+
+
+
+
+
 
 
 ## DATA DUPLICATE
